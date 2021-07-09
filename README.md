@@ -1,4 +1,4 @@
-#Ecomerce genérico
+Ecomerce genérico
 
 
 Como o clone russo do Concordeo era chamado de Concordski, meu ecommerce genérico se chama Ecommerce-coviski, serve pra ser um ecommerce de qualquer coisa, livros, produtos de beleza, baterias usadas, etc.
